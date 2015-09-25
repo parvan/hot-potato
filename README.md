@@ -38,6 +38,8 @@ Edwin Martinez Velazquez
 
 Rui Wang
 
+Jonathan Krueger
+
 --------------------------------------------
 License Information
 --------------------------------------------
